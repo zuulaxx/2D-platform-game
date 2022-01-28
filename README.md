@@ -6,7 +6,7 @@ The super cool ***zuulaxx*** game made with **Unity**
 
 ![2D-platform-game-img](https://raw.githubusercontent.com/zuulaxx89/2D-platform-game/main/2D-platform-game-img.jpg)
 #
-To play, go to the site : <a> [HYPERLINKBLOCKED] </a>
+To play, go to the site : <a> https://www.mediafire.com/file/8o40w72wc2ulxmc/2D-platform-game-by-zuulaxx.zip/file </a>
 #
 ![microgameunity](https://raw.githubusercontent.com/zuulaxx89/2D-platform-game/main/microgameunity.png)
 #
@@ -33,7 +33,7 @@ Le jeu super cool de ***zuulaxx*** réalisé avec **Unity**
  
 ![2D-platform-game-img](https://raw.githubusercontent.com/zuulaxx89/2D-platform-game/main/2D-platform-game-img.jpg)
  #
-Pour jouer, rendez-vous sur ce site : <a> [HYPERLINKBLOCKED] </a>
+Pour jouer, rendez-vous sur ce site : <a> https://www.mediafire.com/file/8o40w72wc2ulxmc/2D-platform-game-by-zuulaxx.zip/file </a>
 # 
 ![microgameunity](https://raw.githubusercontent.com/zuulaxx89/2D-platform-game/main/microgameunity.png)
 #
